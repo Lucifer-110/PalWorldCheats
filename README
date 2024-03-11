@@ -1,8 +1,8 @@
-# 自述文件 #
+# 自述文件
 
 这是一个私人的幻兽帕鲁秘籍菜单，因倒卖严重，在官方彻底修复之前本项目暂不公开。
 
-# 联系方式 #
+# 联系方式
 
 - [QQ](https://qm.qq.com/q/zBtr0tLpdu)
 - [Telegram](https://t.me/Cat011)
@@ -10,7 +10,8 @@
 - [Telegram频道](https://t.me/Lucifer_Fog)
 - [Telegram私聊机器人](https://t.me/Cat_001bot)
 
-# 构建步骤 #
+# 构建步骤
+
 这假设您安装了 Visual Studio 2022
 
 - 克隆或下载存储库为 .zip
@@ -18,7 +19,7 @@
 - 将构建配置设置为发布
 - 构建解决方案
 
-# 播放器特点 #
+# 播放器特点
 
 - 修改速度
 - 修改攻击
@@ -29,7 +30,7 @@
 - 显示玩家位置
 - 将位置打印到控制台
 
-# 功绩 #
+# 功绩
 
 - 安全传送
 - 开放实体列表
@@ -40,13 +41,13 @@
 - 物品生成器
 - Easy Pal Condensation - 所有升级级别仅需要 1 Pal
 
-# 传送器 #
+# 传送器
 
 - 所有Boss地点
 - 自定义传送位置
 - 传送到路径点
 
-# 实体清单 #
+# 实体清单
 
 - 显示附近实体的列表（玩家、NPC 和怪物）
 - 玩家和/或Pal的过滤器列表
@@ -55,7 +56,7 @@
 - 强制加入公会
 - “Mask It”可用于您的玩家实体以隐藏玩家名称。
 
-# 杂项 #
+# 杂项
 
 - 杀死光环
 - 服务器崩溃 【暂时不可用】
@@ -63,13 +64,13 @@
 - 将 Pals 传送到 XHair/vacuum
 - 解锁所有宝箱
 
- # 贡献指南 #
+ # 贡献指南
 
 - GObjects: 48 8B 05 ? ? ? ? 48 8B 0C C8 4C 8D 04 D1 EB 03
 - FNames: 48 8D 05 ? ? ? ? EB 13 48 8D 0D ? ? ? ? E8 ? ? ? ? C6 05 ? ? ? ? ? 0F 10
 - GWorld:48 8B 1D ?? ?? ?? ?? 48 85 DB 74 33 41 B0
 
-# 外部图书馆学分 #
+# 外部图书馆学分
 
 - [Dear ImGui](https://github.com/ocornut/imgui)  
 - [MinHook](https://github.com/TsudaKageyu/minhook)  
