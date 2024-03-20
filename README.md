@@ -60,6 +60,9 @@
 - 将 Pals 传送到 XHair/vacuum
 - 解锁所有宝箱
 
+# 截图
+
+
  # 贡献指南
 
 - GObjects: 48 8B 05 ? ? ? ? 48 8B 0C C8 4C 8D 04 D1 EB 03
