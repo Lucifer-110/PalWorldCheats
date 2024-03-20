@@ -1,4 +1,4 @@
-# 自述文件
+![11](https://github.com/Lucifer-110/PalWorldCheats/assets/162952318/2f353f6d-f8fc-4cb3-a81f-afc0044e99ea)# 自述文件
 
 这是一个私人的幻兽帕鲁秘籍菜单，因倒卖严重，在官方彻底修复之前本项目暂不公开。
 此项目分为三款
@@ -62,6 +62,17 @@
 
 # 截图
 
+- ![1](https://github.com/Lucifer-110/PalWorldCheats/assets/162952318/87098dcd-ba05-4cb3-99bf-ed4ea78ca569)
+- ![2](https://github.com/Lucifer-110/PalWorldCheats/assets/162952318/bf135d99-a6ad-402d-ad04-48f572a9df29)
+- ![3](https://github.com/Lucifer-110/PalWorldCheats/assets/162952318/5a791425-2365-4386-8735-d6701848167d)
+- ![4](https://github.com/Lucifer-110/PalWorldCheats/assets/162952318/c40b03bf-93ce-48da-89a9-ca54712e4b15)
+- ![5](https://github.com/Lucifer-110/PalWorldCheats/assets/162952318/aae087ab-452a-441d-bcce-4bbacf08d3d1)
+- ![6](https://github.com/Lucifer-110/PalWorldCheats/assets/162952318/06856717-7022-487a-8331-a0f73081b02f)
+- ![7](https://github.com/Lucifer-110/PalWorldCheats/assets/162952318/ad7e1e93-a0fa-4423-9f9e-d5eb3b6c87c6)
+- ![8](https://github.com/Lucifer-110/PalWorldCheats/assets/162952318/1dfafa6e-fd60-4fe7-a09d-7e932cd6156e)
+- ![9](https://github.com/Lucifer-110/PalWorldCheats/assets/162952318/1215e188-f8cb-461d-80d2-b957dfe9b59d)
+- ![10](https://github.com/Lucifer-110/PalWorldCheats/assets/162952318/dec9f83b-cc77-444e-a0ea-31a075cc3309)
+- ![11](https://github.com/Lucifer-110/PalWorldCheats/assets/162952318/4a1a6dca-e83b-42b4-942a-a8bd36c38702)
 
  # 贡献指南
 
