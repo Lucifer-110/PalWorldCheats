@@ -4,11 +4,6 @@
 
 # 联系方式
 
-///[QQ](https://qm.qq.com/q/zBtr0tLpdu)//
-///[Telegram](https://t.me/Cat011)//
-///[Telegram群组](https://t.me/Fog_Lucifer)//
-///[Telegram频道](https://t.me/Lucifer_Fog)//
-///[Telegram私聊机器人](https://t.me/Cat_001bot)//
 
 
 # 菜单特点
